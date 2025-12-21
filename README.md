@@ -12,15 +12,16 @@ Welcome to my GitHub profile! I’m a <b>Computer Engineering student</b> at <b>
 
 <h3 align="center">📫 Connect with Me</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/prasanna-neupane2003/?originalSubdomain=np" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
-<a href="https://discord.com/users/your-discord-id" target="_blank">
+<a href="https://discord.com/users/Pr4$4nN4_1337#1234" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </a>
 
-<a href="https://www.facebook.com/your-facebook" target="_blank">
+
+<a href="https://www.facebook.com/prasanna.neupane.16/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
 </a>
 
