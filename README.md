@@ -60,6 +60,9 @@ Welcome to my GitHub profile! I’m a <b>Computer Engineering student</b> at <b>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="60" alt="amazonwebservices logo" width="40" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="60" alt="amazonwebservices logo" width="40" />
+ 
 </p>
 
 ---
